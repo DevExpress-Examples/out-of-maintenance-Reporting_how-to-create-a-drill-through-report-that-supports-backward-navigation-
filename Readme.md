@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CategoriesReport.cs](./CS/ExtendedDrillThroughReport/CategoriesReport.cs) (VB: [CategoriesReport.vb](./VB/ExtendedDrillThroughReport/CategoriesReport.vb))
+* [Form1.cs](./CS/ExtendedDrillThroughReport/Form1.cs) (VB: [Form1.vb](./VB/ExtendedDrillThroughReport/Form1.vb))
+* [IDrillThroughReportHelper.cs](./CS/ExtendedDrillThroughReport/IDrillThroughReportHelper.cs) (VB: [IDrillThroughReportHelper.vb](./VB/ExtendedDrillThroughReport/IDrillThroughReportHelper.vb))
+* [OrderDetailsReport.cs](./CS/ExtendedDrillThroughReport/OrderDetailsReport.cs) (VB: [OrderDetailsReport.vb](./VB/ExtendedDrillThroughReport/OrderDetailsReport.vb))
+* [OrdersReport.cs](./CS/ExtendedDrillThroughReport/OrdersReport.cs) (VB: [OrdersReport.vb](./VB/ExtendedDrillThroughReport/OrdersReport.vb))
+* [ProductsReport.cs](./CS/ExtendedDrillThroughReport/ProductsReport.cs) (VB: [ProductsReport.vb](./VB/ExtendedDrillThroughReport/ProductsReport.vb))
+* [Program.cs](./CS/ExtendedDrillThroughReport/Program.cs) (VB: [Program.vb](./VB/ExtendedDrillThroughReport/Program.vb))
+<!-- default file list end -->
 # How to create a drill-through report that supports backward navigation to a primary report
 
 
